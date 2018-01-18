@@ -4,26 +4,9 @@
 
 ## [问答集](ProblemSets)
 
-### 2015
-
-1. [2015 Problem Set 1](ProblemSets/2015-ProblemSet1.pdf) : [solutions](ProblemSets/2015-ProblemSet1-solutions.pdf)
-1. [2015 Problem Set 2](ProblemSets/2015-ProblemSet2.pdf) : [solutions](ProblemSets/2015-ProblemSet2-solutions.pdf)
-1. [2015 Problem Set 3](ProblemSets/2015-ProblemSet3.pdf) : [solutions](ProblemSets/2015-ProblemSet3-solutions.pdf)
-1. [2015 Problem Set 4](ProblemSets/2015-ProblemSet4.pdf) : [solutions](ProblemSets/2015-ProblemSet4-solutions.pdf)
-
-### 2016
-
-1. [2016 Problem Set 1](ProblemSets/2016-ProblemSet1.pdf) : [solutions](ProblemSets/2016-ProblemSet1-solutions.pdf)
-1. [2016 Problem Set 2](ProblemSets/2016-ProblemSet2.pdf) : [solutions](ProblemSets/2016-ProblemSet2-solutions.pdf)
-1. [2016 Problem Set 3](ProblemSets/2016-ProblemSet3.pdf) : [solutions](ProblemSets/2016-ProblemSet3-solutions.pdf)
-1. [2016 Problem Set 4](ProblemSets/2016-ProblemSet4.pdf) : [solutions](ProblemSets/2016-ProblemSet4-solutions.pdf)
-
-### 2017
-
-1. [2017 Problem Set 1](ProblemSets/2017-ProblemSet1.pdf) : [solutions](ProblemSets/2017-ProblemSet1-solutions.pdf)
-1. [2017 Problem Set 2](ProblemSets/2017-ProblemSet2.pdf) : [solutions](ProblemSets/2017-ProblemSet2-solutions.pdf)
-1. [2017 Problem Set 3](ProblemSets/2017-ProblemSet3.pdf) : [solutions](ProblemSets/2017-ProblemSet3-solutions.pdf)
-1. [2017 Problem Set 4](ProblemSets/2017-ProblemSet4.pdf) : [solutions](ProblemSets/2017-ProblemSet4-solutions.pdf)
+| 2015 | 2016 | 2017 |
+| :------------: |:-------------:|:-------------:|
+|  [Problem Set 1](ProblemSets/2015-ProblemSet1.pdf) & [solutions](ProblemSets/2015-ProblemSet1-solutions.pdf) <br> [Problem Set 2](ProblemSets/2015-ProblemSet2.pdf) & [solutions](ProblemSets/2015-ProblemSet2-solutions.pdf) <br> [Problem Set 3](ProblemSets/2015-ProblemSet3.pdf) & [solutions](ProblemSets/2015-ProblemSet3-solutions.pdf) <br> [Problem Set 4](ProblemSets/2015-ProblemSet4.pdf) & [solutions](ProblemSets/2015-ProblemSet4-solutions.pdf) |[Problem Set 1](ProblemSets/2016-ProblemSet1.pdf) & [solutions](ProblemSets/2016-ProblemSet1-solutions.pdf) <br> [Problem Set 2](ProblemSets/2016-ProblemSet2.pdf) & [solutions](ProblemSets/2016-ProblemSet2-solutions.pdf) <br> [Problem Set 3](ProblemSets/2016-ProblemSet3.pdf) & [solutions](ProblemSets/2016-ProblemSet3-solutions.pdf) <br> [Problem Set 4](ProblemSets/2016-ProblemSet4.pdf) & [solutions](ProblemSets/2016-ProblemSet4-solutions.pdf)| [Problem Set 1](ProblemSets/2017-ProblemSet1.pdf) & [solutions](ProblemSets/2017-ProblemSet1-solutions.pdf) <br> [Problem Set 2](ProblemSets/2017-ProblemSet2.pdf) & [solutions](ProblemSets/2017-ProblemSet2-solutions.pdf) <br> [Problem Set 3](ProblemSets/2017-ProblemSet3.pdf) & [solutions](ProblemSets/2017-ProblemSet3-solutions.pdf) <br> [Problem Set 4](ProblemSets/2017-ProblemSet4.pdf) & [solutions](ProblemSets/2017-ProblemSet4-solutions.pdf)|
 
 ## [选读材料](Readings)
 
